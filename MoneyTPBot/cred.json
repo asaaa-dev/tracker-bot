@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "money-tracker-487406",
+  "private_key_id": "7ae8ab5baa10f09ff04a85812a8a35d5bb4e3236",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDcifXUtGiD3dB1\nfB5hqp1ZKw0DnWuBf2f/C1cGFECxYTUOq83+IN79E707dO/BM5lBGz1fv8NhKCcD\nU1MnnvqM0KWejpsXQr4e+1O07YHQMTylXk+82x3bzsDOyWxR6ijtgaD8P+6OEbha\nVkJf+ZzXDf3JRM4N80NeDqXhsWEacykGR3q+EGFh7BjyPn899JSaHdjxTRQPqUXS\nC5d8VJqFrWu6Hg0utvzzIJ8Ai5Wh7ghRqaesZ+XV75U3dKRViZikqL07nyYDNNN7\nX6wJGbvVTYlqYydPzghksawzFYlzclKYvosMDW32+AR82iCOYqIQBSq8pCl95j/0\nGpTSaqjhAgMBAAECggEAQ/kzr2khk49BCo0Ecjbbg5m8y6Hv+jxyKc5tdp60Z9ed\nulViytKH2DoGx7YdlY9ZS5NhQctBpYbyK1i51wrtj4xZl7q9e5hjL/pnzOqtaaVb\nW17rtbpVhCPAEpxLih3hmn6rR0RPOzOj/hf7Iki1uiUCVVAjMHKLj4h1QVBiLPvB\n9k9/OT1kcSFeuJu/GM+q1dWbLzk1ltJX6qr3cTBmUcppiRYx3G5gTQFiFB1vu60Z\nQk1R3R/tlzmTHxm8ooadklsxMb2pqYHQVnMvTYh/NBHR34XZEGh4sxVzZXugpgx8\nhlT/NgC9m5Ko02Bb0WcgGDtbSeYlt3wc5gWznh2BPwKBgQD7Cw//7Dw6NlME/ZzA\nSNgS0aAG01cIlOyYunV+H3hxo/pi7e518lp80ENmC8p2oOGcl9Se+m6JsFV5o6dY\n1LHukNIzqqjSkUMHjX+R3Lk5DJ+L4t5/2UowUU+Yv1Im1FqLZta4w+TPsgbB6zuo\ngN6V7OYNY2mJtJbgN91dWYR1DwKBgQDg5LV+JLmjOBI2w4wlxWrVjJcuLHrkRfiu\nuhUGCjYUIfBVFHQ+hOVDuQS2WTe475yfIzZFGSPAFrvYxC9kTVpT52HRwx0Gpbqk\npONRcKiQQuwhMEBeJ9zBEo0T4+lUCcvgBlifQG9KgxCfQbDUnGlBZ/PPCqWzqCh6\n7/vtTW1jDwKBgB/lpO/IjVJ8Koo8yxjnaITjm6iiW7Gccn9pWZpf10bhJeRCBQV5\neKPZNmcV4nC2OlRSOlLE0Ryvify9nXq886qzPfIQogi3KkQgZ3AaEnK8Nt1oQwsN\nic6f1jQ7Qu3qF2MU+v1Y7o6xOQiUoezkCuQTyJs04Wj8yBrPHlJJGHpjAoGAP3kt\npGG3J1MPCPfeGVcD1SvuC3Ewajc5fg81GdRN+RavH0Q7nt2hW6DfrJu3t3GhceTd\nT1lOFswTzpVojtWqNd4rZKm+Cn9CE3AaXIUAfl71CFT3BdwYWUHkIYYE99wf96Wy\n45erEYu2aEyBHTDcIEK3tGrb474FVtVe9FYTFo8CgYEA+gjcW2CXo7O25Vsrjyp2\n9+jRtZ/H9GVHIliQAlv7PnFxWye6eqsk+AiDcrxEini55SzthrNOZnqiTfC2OmjY\nrZ21vxka9N4DYxUthPLk8o56xBjEda/NZPUU9XxZdwseX0oQUfReSUrLVsLffUoY\nOXALf62THPMuMc0ehUoR7Gw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "moneytrackbot@money-tracker-487406.iam.gserviceaccount.com",
+  "client_id": "112462238524900487157",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/moneytrackbot%40money-tracker-487406.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
